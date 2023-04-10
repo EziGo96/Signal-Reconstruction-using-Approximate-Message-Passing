@@ -10,6 +10,7 @@ The project is based on a homework assignment from the course â€œData Science â€
 To run the project, open MATLAB and navigate to the folder where you downloaded the files. Then run the following command in the MATLAB command window:
 
 Hw9_2
+
 This will execute the script and display the plots of the original signals, the reconstructed signals, and the mean squared error (MSE) versus iteration number for each experiment.
 
 # License
